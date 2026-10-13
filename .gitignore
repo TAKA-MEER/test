@@ -1,0 +1,7 @@
+# かんたん共有:共有しないファイル(Office の一時ファイルなど)
+~$*
+.~lock*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
